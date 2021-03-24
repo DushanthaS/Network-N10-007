@@ -8,4 +8,4 @@ Network+ (N10-007)
 ### [2.0 Infrastructure](2.0%20Infrastructure.md)
 ### [3.0 Network Operations](3.0%20Network%20Operations.md)
 ### [4.0 Network Security](4.0%20Network%20Security.md)
-### [5.0 Network Troubleshooting and Tools]
+### [5.0 Network Troubleshooting and Tools](5.0%20Network%20Troubleshooting%20and%20Tools.md)
